@@ -1,3 +1,7 @@
 what happens when you initialize a repository? Why do you need to do it?
 
 A sub directory is create for git. No commits are made. You need to do it to create the git repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+using status command and diff command shows you differences between repositorys and staging and workspace.
