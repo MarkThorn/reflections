@@ -13,3 +13,7 @@ when working on different projects.
 How do the diagrams help you visualize the branch structure?
 
 you can see where each commit falls in line in order.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+sometimes it doesn't know what to dow when changes have been made in the same areas.
